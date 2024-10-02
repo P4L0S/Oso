@@ -1,4 +1,4 @@
- main(){
+ void main(){
   background(192,102,100);
   //Orejas
   ellipse(100,100,70,70);
@@ -11,7 +11,7 @@
   ellipse(180,140,30,50);
   ellipse(170,140,5,5);
   //Nariz
-  ellipse(160,170,30,10void);
+  ellipse(160,170,30,10);
   //Boca
   ellipse(160,200,30,20);
 
